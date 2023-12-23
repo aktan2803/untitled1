@@ -1,16 +1,35 @@
-# untitled1
+# Game X0
 
 A new Flutter project.
 
-## Getting Started
+X0 Game on Flutter is an engaging and classic tic-tac-toe game designed to provide users with a seamless gaming experience. The application features a sleek and user-friendly interface built on Flutter framework, ensuring compatibility across various devices.
 
-This project is a starting point for a Flutter application.
+Upon launching the app, users are greeted with a convenient login page, offering a secure entry point to access the game's features. Once logged in, players are taken to the immersive game page, where they can enjoy the timeless challenge of tic-tac-toe.
 
-A few resources to get you started if this is your first Flutter project:
+The game page boasts an intuitive interface, allowing players to make their moves effortlessly. With responsive touch controls and vibrant visuals, users can strategize and compete against opponents.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To enhance user navigation and accessibility, a convenient navbar is seamlessly integrated into the game page. This navigation bar provides quick access to essential features, enabling players to effortlessly switch between game modes, access settings, or return to the main menu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+X0 Game on Flutter promises an enjoyable and addictive gaming experience for players of all ages, combining simplicity with sophistication in a beautifully designed application.
+
+
+Login Page Screenshot
+
+![loginpagescreenshot](https://github.com/aktan2803/xo/assets/81546800/1547bc2b-5c4c-4c76-b5d3-6f3425203a32)
+
+Game Screen
+
+![gamexoscreenshot](https://github.com/aktan2803/xo/assets/81546800/a3f8ea35-ef91-402b-bb2b-0f8f9f5dd7fa)
+
+Game Process
+
+![gameoverscreenshot](https://github.com/aktan2803/xo/assets/81546800/eebec73f-b474-4d6e-970f-7af7ae80dd38)
+
+NovBar
+
+![navbarscreenshot](https://github.com/aktan2803/xo/assets/81546800/32bc0f5a-ad04-4b00-844c-651321619435)
+
+
+
+
+Aktan Ruslanov
